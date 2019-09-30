@@ -2,5 +2,6 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectName="LearnProject" firstStartUp="false" />
+    <entry projectName="ti-parent" firstStartUp="false" />
   </component>
 </application>

@@ -1,0 +1,277 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
+      <component name="CompilerConfiguration">
+        <bytecodeTargetLevel target="8" />
+      </component>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+        <option name="PARALLEL_COMPILATION" value="true" />
+      </component>
+      <component name="EclipseCodeFormatterProjectSettings">
+        <option name="projectSpecificProfile">
+          <ProjectSpecificProfile>
+            <option name="formatter" value="ECLIPSE" />
+            <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/.IntelliJIdea/codeFormatter.xml" />
+            <option name="selectedJavaProfile" value="Eclipse [customer]" />
+          </ProjectSpecificProfile>
+        </option>
+      </component>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="Git.Settings">
+        <option name="ROOT_SYNC" value="DONT_SYNC" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+          <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JavacSettings">
+        <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding UTF8" />
+      </component>
+      <component name="JsBowerSettings">
+        <node-interpreter value="project" />
+        <bower-package value="" />
+        <bower.json value="" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="Kotlin2JsCompilerArguments">
+        <option name="sourceMapEmbedSources" />
+        <option name="sourceMapPrefix" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="D:/dev/opt/Maven" />
+            <option name="userSettingsFile" value="D:\dev\opt\Maven\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="importAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="Lord" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/.IntelliJIdea/codeFormatter.xml" />
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.path.for.package.jscs" value="project" />
+        <property name="node.js.path.for.package.standard" value="project" />
+        <property name="node.js.path.for.package.stylelint" value="project" />
+        <property name="node.js.selected.package.eslint" value="" />
+        <property name="node.js.selected.package.jscs" value="" />
+        <property name="node.js.selected.package.standard" value="" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Problems" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+      </component>
+      <component name="RemoteRepositoriesConfiguration">
+        <remote-repository>
+          <option name="id" value="central" />
+          <option name="name" value="Maven Central repository" />
+          <option name="url" value="https://repo1.maven.org/maven2" />
+        </remote-repository>
+        <remote-repository>
+          <option name="id" value="jboss.community" />
+          <option name="name" value="JBoss Community repository" />
+          <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+        </remote-repository>
+        <remote-repository>
+          <option name="id" value="98e7de32-cc5a-4312-83c6-4d8eee86c152" />
+          <option name="name" value="98e7de32-cc5a-4312-83c6-4d8eee86c152" />
+          <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+        </remote-repository>
+      </component>
+      <component name="RunManager">
+        <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.15" ALTERNATIVE_JRE_ENABLED="false">
+          <option name="UPDATING_POLICY" value="restart-server" />
+          <deployment />
+          <server-settings>
+            <option name="BASE_DIRECTORY_NAME" value="Unnamed_Default_(Template)_Project" />
+          </server-settings>
+          <predefined_log_file id="Tomcat" enabled="true" />
+          <predefined_log_file id="Tomcat Catalina" enabled="true" />
+          <predefined_log_file id="Tomcat Manager" enabled="false" />
+          <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+          <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+          <RunnerSettings RunnerId="Debug">
+            <option name="DEBUG_PORT" value="49706" />
+          </RunnerSettings>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+            <option name="USE_ENV_VARIABLES" value="true" />
+            <STARTUP>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </STARTUP>
+            <SHUTDOWN>
+              <option name="USE_DEFAULT" value="true" />
+              <option name="SCRIPT" value="" />
+              <option name="VM_PARAMETERS" value="" />
+              <option name="PROGRAM_PARAMETERS" value="" />
+            </SHUTDOWN>
+          </ConfigurationWrapper>
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SaveActionSettings">
+        <option name="actions">
+          <set>
+            <option value="activateOnShortcut" />
+            <option value="organizeImports" />
+            <option value="reformat" />
+            <option value="missingOverrideAnnotation" />
+          </set>
+        </option>
+        <option name="configurationPath" value="" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\Lord\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ArquillianSettingsConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.20308124" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.20308124" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

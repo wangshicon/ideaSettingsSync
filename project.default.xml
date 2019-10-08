@@ -15,7 +15,7 @@
         <option name="projectSpecificProfile">
           <ProjectSpecificProfile>
             <option name="formatter" value="ECLIPSE" />
-            <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/.IntelliJIdea/Eclipse [customer].xml" />
+            <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/.IntelliJIdea/codeFormatter.xml" />
             <option name="selectedJavaProfile" value="Eclipse [customer]" />
           </ProjectSpecificProfile>
         </option>
@@ -74,7 +74,7 @@
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
         <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-        <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/.IntelliJIdea/Eclipse [customer].xml" />
+        <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/.IntelliJIdea/codeFormatter.xml" />
         <property name="node.js.path.for.package.eslint" value="project" />
         <property name="node.js.path.for.package.jscs" value="project" />
         <property name="node.js.path.for.package.standard" value="project" />
@@ -85,10 +85,10 @@
         <property name="node.js.selected.package.stylelint" value="" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="project.structure.last.edited" value="SDKs" />
+        <property name="project.structure.last.edited" value="Problems" />
         <property name="project.structure.proportion" value="0.15" />
         <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.build" />
       </component>
       <component name="RemoteRepositoriesConfiguration">
         <remote-repository>
@@ -106,18 +106,6 @@
           <option name="name" value="98e7de32-cc5a-4312-83c6-4d8eee86c152" />
           <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
         </remote-repository>
-      </component>
-      <component name="RunDashboard">
-        <option name="ruleStates">
-          <list>
-            <RuleState>
-              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-            </RuleState>
-            <RuleState>
-              <option name="name" value="StatusDashboardGroupingRule" />
-            </RuleState>
-          </list>
-        </option>
       </component>
       <component name="RunManager">
         <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.15" ALTERNATIVE_JRE_ENABLED="false">
@@ -187,7 +175,6 @@
       <component name="SaveActionSettings">
         <option name="actions">
           <set>
-            <option value="activate" />
             <option value="activateOnShortcut" />
             <option value="organizeImports" />
             <option value="reformat" />

@@ -1,7 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Found duplicated code in this file" />
       <item value="Current thread (0x0000000016567000): JavaThread &quot;C2 CompilerThread0&quot; daemon [_thread_in_native, id=5024, stack(0x0000000016c30000,0x0" />
     </histories>
   </component>

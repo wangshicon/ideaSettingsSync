@@ -10,12 +10,8 @@
           <option name="url" value="https://github.com/wangshicon/wuancake_api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitee.com:douro/ticms.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\var\giteespace" />
+    <option name="cloneParentDir" value="D:\OneDrive\WorkSpace" />
   </component>
 </application>

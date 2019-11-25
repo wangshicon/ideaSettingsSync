@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set" />
       <item value="Current thread (0x0000000016567000): JavaThread &quot;C2 CompilerThread0&quot; daemon [_thread_in_native, id=5024, stack(0x0000000016c30000,0x0" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />

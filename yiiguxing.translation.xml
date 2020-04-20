@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No converter for [class com.lord.momtime.common.ResultAjax] with preset Content-Type 'application/octet-stream'" />
       <item value="no permission for this msgtype" />
       <item value="set" />
       <item value="Current thread (0x0000000016567000): JavaThread &quot;C2 CompilerThread0&quot; daemon [_thread_in_native, id=5024, stack(0x0000000016c30000,0x0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>

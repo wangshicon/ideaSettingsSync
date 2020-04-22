@@ -249,6 +249,14 @@
           <Count>71</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MomtimeApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MomtimeApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Tomcat8'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>

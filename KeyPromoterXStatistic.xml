@@ -102,7 +102,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>323</Count>
+          <Count>325</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -121,12 +121,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="New Folder...">
+        <Item>
+          <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
+          <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
+          <Description>New Folder...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>124</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -182,7 +190,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>199</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -246,7 +254,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">

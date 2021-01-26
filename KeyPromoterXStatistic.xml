@@ -102,7 +102,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>325</Count>
+          <Count>327</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -118,7 +118,7 @@
           <IdeaActionID>TailMyBatisLog</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+O'</ShortCut>
           <Description>MyBatis Log Plugin</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -190,7 +190,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>201</Count>
+          <Count>202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">

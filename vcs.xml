@@ -14,6 +14,10 @@
           <option name="url" value="http://git.yinfu365.com/wangsc/kahuanhuan-cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://120.195.199.108:20018//ixd/randd/imarket/crm/basic_java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\dev\var\workspace_idea" />
